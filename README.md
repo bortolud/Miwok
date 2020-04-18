@@ -1,4 +1,4 @@
-# miwok
+# Miwok
 App created as part of the Android Nanodegree on Udacity
 
 This app displays translations between English and Miwok.  It also plays a sound of the Miwok pronunciation on user touch.
